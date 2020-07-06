@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "lcoangular": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lcoangular"
+    }
+  },
+  "defaultProject": "lcoangular",
+  "cli": {
+    "analytics": "3dec3870-5d1f-4252-9264-7f4e5ec60f58"
+  }
 }
